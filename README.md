@@ -1,7 +1,9 @@
 # AvadaMechanic
-![Alt text](https://github.com/user-attachments/assets/398e3d42-7086-4a77-b9ae-3bc0273f9a0f)
+![Alt text](https://github.com/user-attachments/assets/8e83d7e3-91af-438b-8868-c887d75c953d)
 
-![Alt text](https://github.com/user-attachments/assets/41fa9326-4d29-4e31-8613-5dec2434dfd4)
+
+![Alt text](https://github.com/user-attachments/assets/812f2cb4-4bfd-46b3-a114-d35fce9b55e6)
+
 
 - [Demo Project](https://rezageshaniweb.github.io/AvadaMechanic/)
 
